@@ -10,7 +10,7 @@
 
 }
 .tagline{
-	padding:10px 30px 200px 10px;
+	padding:10px 30px 160px 10px;
 	font-size:22;
 	width:calc(100%-20px);
 }
@@ -24,7 +24,7 @@
 
 }
 .button{
-
+	width:260px;
 }
 
 .primary{
@@ -83,4 +83,8 @@
 
 }
 
+.section3 a{
+	color:#fff;
+	text-decoration:none;
+	margin:0px 15px;
 }
