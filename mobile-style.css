@@ -1,0 +1,86 @@
+@media (max-width: 580px) {
+	body,html {
+
+
+}
+.section1{
+	
+}
+.logo{
+
+}
+.tagline{
+	padding:10px 30px 200px 10px;
+	font-size:22;
+	width:calc(100%-20px);
+}
+.light{
+	font-weight:100;
+}
+.reg{
+	font-weight:500;
+}
+.buttons{
+
+}
+.button{
+
+}
+
+.primary{
+	
+}
+.primary:hover{
+	}
+.secondary{
+	
+}
+.secondary:hover{
+	
+}
+
+
+/*the second section with 3 main points*/
+.section2{
+	width:100%;
+	padding:10px;
+}
+
+.section2 .item{
+	width:calc(100% - 42px);
+	padding:10px;
+	margin:0px 0px 10px 0px;
+	background-color:#fff;
+	text-align:center;
+	display:block;
+	border-radius:2px;
+	border:1px solid #D1D5DE;
+}
+.item .header{
+	font-size:26px;
+	margin-top:20px;
+	font-weight:400;
+}
+.item .description{
+	font-size:20px;
+	margin-bottom:20px;
+}
+.itemImage{
+	padding:20px 0px 20px 0px;
+}
+
+.section3{
+	width:100%;
+	text-align:center;
+	background:#000;
+}
+.section3 .buttons{
+	padding:100px 0px;
+	display:inline-block;
+	text-align:center;
+}
+.section3 .links{
+
+}
+
+}

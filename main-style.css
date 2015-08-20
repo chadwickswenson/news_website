@@ -1,0 +1,128 @@
+body,html {
+   font-family: "Helvetica Neue Light", "Helvetica Neue", "HelveticaNeue-Light", Helvetica, Arial, "Lucida Grande", sans-serif; 
+   font-weight: 300;
+   padding:0px;
+   margin:0px;
+   overflow-x:hidden;
+}
+.section1{
+	width:100%;
+	height:600px;
+	background:#000;
+	color:#fff;
+	text-align:center;
+	background-image:url('assets/main-bg1.jpg');
+	background-position:center;
+}
+.logo{
+ 	width:100%;
+ 	text-align:center;
+ 	color:#fff;
+ 	font-size:40;
+	padding-top:50px;
+}
+.tagline{
+	padding:10px 0px 200px 0px;
+	font-size:22;
+}
+.light{
+	font-weight:100;
+}
+.reg{
+	font-weight:500;
+}
+.buttons{
+	text-align:center;
+	width:auto;
+	display:inline-block;
+}
+.button{
+	border-radius:2px;
+	padding:15px 0px 19px 0px;
+	width:360px;
+	color:#fff;
+	text-decoration:none;
+	display:block;
+	margin-bottom:20px;
+	box-shadow:0px 1px 3px rgba(0,0,0,0.5);
+}
+.button:active{
+	color:#fff;
+	text-decoration:none;
+}
+.primary{
+	background:#0F82E9;
+	border:4px solid #0F82E9;
+	font-weight:500;
+}
+.primary:hover{
+	background:#3B97E9;
+	border:4px solid #3B97E9;
+}
+.secondary{
+	background:rgba(0,0,0,0.2);
+	border:4px solid #fff;
+	font-weight:500;
+}
+.secondary:hover{
+	background:rgba(0,0,0,0.4);
+}
+
+
+/*the second section with 3 main points*/
+.section2{
+	background:#E9EBF0;
+	text-align:center;
+}
+
+.section2 .item{
+	width:320px;
+	padding:20px;
+	margin:20px 5px 20px 5px;
+	background-color:#fff;
+	text-align:center;
+	display:inline-block;
+	border-radius:2px;
+	border:1px solid #D1D5DE;
+}
+.item .header{
+	font-size:20px;
+	margin-top:20px;
+	font-weight:400;
+}
+.item .description{
+	font-size:14px;
+	margin-bottom:20px;
+}
+.itemImage{
+	padding:20px 0px 20px 0px;
+}
+
+.section3{
+	width:100%;
+	text-align:center;
+	background:#000;
+}
+.section3 .buttons{
+	padding:100px;
+	display:inline-block;
+	text-align:center;
+}
+.section3 .links{
+	display:block;
+	text-align:center;
+	padding-bottom:50px;
+}
+.section3 a{
+	color:#fff;
+	text-decoration:none;
+	margin:0px 25px;
+}
+.section3 a:hover{
+	color:#fff;
+	text-decoration:underline;
+}
+.section3 a:active{
+	color:#fff;
+
+}
